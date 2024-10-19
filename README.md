@@ -4,7 +4,7 @@
 🔭 I’m currently working on [Bean Journal](https://beanjournal.vercel.app/)<br>
 🌱 I’m currently learning **.NET Core, Microservices, DDD, CQRs**<br>
 📫 How to reach me **minhanh26102004@gmail.com**<br>
-📄 Know about my experiences [https://github.com/MinhAnh2610/Resume/raw/main/Pham%20Hoang%20Minh%20Anh.pdf](https://github.com/MinhAnh2610/Resume/raw/main/Pham%20Hoang%20Minh%20Anh.pdf)<br>
+📄 Know about my experiences [PhamHoangMinhAnh.pdf](https://github.com/MinhAnh2610/Resume/raw/main/Pham%20Hoang%20Minh%20Anh.pdf)<br>
 ⚡ Fun fact **Outside of coding, you'll find me on the basketball court, playing piano, diving into games, or enjoying a good book. Let's build something awesome together!**
 
 # 💻 Tech Stack:
